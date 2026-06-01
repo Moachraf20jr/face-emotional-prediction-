@@ -1,0 +1,7 @@
+dataset/
+models/
+__pycache__/
+*.h5
+*.keras
+*.pt
+*.pth
